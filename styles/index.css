@@ -299,7 +299,7 @@ header {
 }
 
 @media (max-width: 768px) {
-  body {
+  *{
     overflow-x: hidden !important;
   }
 
@@ -435,14 +435,11 @@ header {
     top: 200px;
   }
 
-  .bottom{
-    margin-bottom: -30px;
-  }
-
   .slider-mobile {
     position: relative;
     top: -390px;
-    left: 10px;
+    left: 0px;
+    margin-bottom: -30px;
   }
 
   .right{
