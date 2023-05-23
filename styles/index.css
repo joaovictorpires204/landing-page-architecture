@@ -3,6 +3,7 @@
 * {
   margin: 0;
   padding: 0;
+  overflow-x: hidden !important;
 }
 
 :root {
@@ -433,6 +434,10 @@ header {
   .description-mobile {
     position: relative;
     top: 200px;
+  }
+
+  .bottom{
+    margin-bottom: -30px;
   }
 
   .slider-mobile {
