@@ -297,7 +297,7 @@ header {
   transform: scale(1.2);
 }
 
-@media screen and (min-width: 320px) and (max-width: 768px) {
+@media (max-width: 768px) {
   body {
     overflow-x: hidden !important;
   }
@@ -420,20 +420,6 @@ header {
     height: 250px;
     margin-top: 30px;
     margin-bottom: 30px;
-  }
-
-  .slider-wrapper {
-    position: relative;
-    width: 550px;
-    height: auto;
-    margin: 0 -70px;
-    padding-top: 30px;
-  }
-
-  .slider img {
-    flex: 2 0 100%;
-    scroll-snap-align: start;
-    object-fit: contain;
   }
 
   .project-desciption {
