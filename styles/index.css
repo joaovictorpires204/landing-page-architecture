@@ -137,6 +137,7 @@ header {
 .project-container {
   display: flex;
   height: 370px;
+  margin-top: 30px;
 }
 
 .project-content {
@@ -436,7 +437,7 @@ header {
 
   .slider-mobile {
     position: relative;
-    top: -430px;
+    top: -390px;
     left: 30px;
   }
 
