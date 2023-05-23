@@ -437,6 +437,7 @@ header {
   .slider-mobile {
     position: relative;
     top: -430px;
+    left: -300px;
   }
 
   .map-tags img {
