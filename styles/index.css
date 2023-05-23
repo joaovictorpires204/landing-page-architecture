@@ -438,6 +438,12 @@ header {
   .slider-mobile {
     position: relative;
     top: -390px;
+    left: 10px;
+  }
+
+  .right{
+    position: relative;
+    top: -400px;
     left: 30px;
   }
 
