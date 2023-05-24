@@ -424,7 +424,7 @@ header {
   }
 
   .project-desciption {
-    margin: 0px 0;
+    margin: -30px 0;
     padding: 20px;
     width: 360px;
     height: 300px;
@@ -475,7 +475,8 @@ header {
 
   .slider-nav{
     position: relative;
-    top: -200px;
+    top: -50px;
+    left: 50px;
   }
 
   .map-tags img {
