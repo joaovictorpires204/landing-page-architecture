@@ -463,6 +463,11 @@ header {
     top: -30px;
   }
 
+  .slider-wrapper img { 
+    width: auto;
+    height: auto;
+  }
+
   .map-tags img {
     width: 130px;
   }
