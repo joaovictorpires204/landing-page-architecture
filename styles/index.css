@@ -463,8 +463,13 @@ header {
     top: -30px;
   }
 
+  .slider-wrapper{
+    width: 250px;
+    height: 300px;
+  }
+
   .slider img { 
-    width: fit-content;
+    width: 300px;
     height: fit-content;
   }
 
