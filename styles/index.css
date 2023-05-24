@@ -438,14 +438,14 @@ header {
   .slider-mobile {
     position: relative;
     top: -390px;
-    left: 0px;
+    left: 10px;
     margin-bottom: -30px;
   }
 
   .right {
     position: relative;
     top: -20px;
-    left: 30px;
+    left: 20px;
   }
 
   .project-3-bar {
@@ -471,6 +471,11 @@ header {
   .slide-img {
     width: 100%;
     height: 100%;
+  }
+
+  .slider-nav{
+    position: relative;
+    top: -200px;
   }
 
   .map-tags img {
