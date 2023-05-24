@@ -497,7 +497,7 @@ header {
 
   .map{
     position: relative;
-    top: -100px;
+    top: -250px;
   }
 
   .map-tags img {
@@ -515,7 +515,7 @@ header {
 
   .contact-container{
     position: relative;
-    top: -100px;
+    top: -200px;
   }
 
   .contact-formation {
