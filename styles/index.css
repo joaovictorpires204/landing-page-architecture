@@ -466,12 +466,12 @@ header {
 
   .project-4-bar {
     position: relative;
-    top: -200px;
+    top: -150px;
   }
 
   .project-4-container {
     position: relative;
-    top: -200px;
+    top: -150px;
   }
 
   .slider-wrapper {
@@ -498,7 +498,7 @@ header {
 
   .map{
     position: relative;
-    top: -300px;
+    top: -250px;
   }
 
   .map-tags img {
@@ -516,7 +516,7 @@ header {
 
   .contact-container{
     position: relative;
-    top: -300px;
+    top: -250px;
   }
 
   .contact-formation {
