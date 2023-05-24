@@ -443,7 +443,7 @@ header {
   .slider-mobile {
     position: relative;
     top: -390px;
-    left: 30px;
+    left: 20px;
     margin-bottom: -30px;
   }
 
@@ -476,7 +476,7 @@ header {
   .slider-nav {
     position: relative;
     top: 20px;
-   left: 320px;
+   left: 310px;
   }
 
   .map-tags img {
