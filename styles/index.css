@@ -300,7 +300,7 @@ header {
 
 @media (max-width: 500px) {
   body {
-    height: 3000px;
+    height: 2800px;
     overflow-x: hidden !important;
   }
 
@@ -498,7 +498,7 @@ header {
 
   .map{
     position: relative;
-    top: -400px;
+    top: -300px;
   }
 
   .map-tags img {
