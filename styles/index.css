@@ -435,9 +435,10 @@ header {
     top: 200px;
   }
 
-.mobile-descpt{
-  margin-top: -30px;
-}
+  .mobile-descpt {
+    position: relative;
+    top: -30px;
+  }
 
   .slider-mobile {
     position: relative;
@@ -477,10 +478,10 @@ header {
     height: 100%;
   }
 
-  .slider-nav{
+  .slider-nav {
     position: relative;
     top: 20px;
-    left: 200px;
+    left: 300px;
   }
 
   .map-tags img {
