@@ -464,8 +464,8 @@ header {
   }
 
   .slider img { 
-    width: auto;
-    height: auto;
+    width: fit-content;
+    height: fit-content;
   }
 
   .map-tags img {
