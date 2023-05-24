@@ -300,7 +300,7 @@ header {
 
 @media (max-width: 500px) {
   body {
-    height: 2400px;
+    height: 2000px;
     overflow-x: hidden !important;
   }
 
