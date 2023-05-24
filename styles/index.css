@@ -463,6 +463,16 @@ header {
     top: -100px;
   }
 
+  .project-4-bar {
+    position: relative;
+    top: -200px;
+  }
+
+  .project-4-container {
+    position: relative;
+    top: -200px;
+  }
+
   .slider-wrapper {
     width: 350px;
     height: 350px;
@@ -485,6 +495,11 @@ header {
     left: 280px;
   }
 
+  .map{
+    position: relative;
+    top: -100px;
+  }
+
   .map-tags img {
     width: 130px;
   }
@@ -496,6 +511,11 @@ header {
 
   .footer-menu {
     display: none;
+  }
+
+  .contact-container{
+    position: relative;
+    top: -100px;
   }
 
   .contact-formation {
