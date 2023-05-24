@@ -476,7 +476,13 @@ header {
   .slider-nav {
     position: relative;
     top: 20px;
-   left: 310px;
+    left: 310px;
+  }
+
+  .third {
+    position: relative;
+    top: 20px;
+    left: 290px;
   }
 
   .map-tags img {
