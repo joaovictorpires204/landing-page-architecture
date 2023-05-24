@@ -476,7 +476,7 @@ header {
   .slider-nav {
     position: relative;
     top: 20px;
-    margin: 0 auto;
+   left: 250px;
   }
 
   .map-tags img {
